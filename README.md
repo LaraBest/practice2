@@ -1,6 +1,6 @@
 # practice2
 Here is our website for the digital methods class
 
-#introduction 
+## introduction 
 - first item
 - second item
